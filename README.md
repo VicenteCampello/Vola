@@ -79,4 +79,5 @@ Lancer le notebook `notebooks/Live_predict.ipynb`. Le modèle utilise les donné
 Vicente Campello — Avril 2025  
 Projet réalisé dans le cadre du module de data science, semestre 2.
 
-Lien vers la vidéo de soutenance : [à insérer]
+Lien vers la vidéo de soutenance : Que pour les intimes.
+
